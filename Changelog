@@ -2,4 +2,5 @@ Version 1.0
 First release, an updated from the previous version of the MW2 tool with new features and a better and simplified user interface.
 Errors: The Admin Mode doesn't work all the time(fixed)
 Turning off Riot Shields puts a Riot Shield on everyones back. Will fix soon(disabled for now)
+Countdown force host doesn't work unless you are in a party
 Please report other bugs here: https://github.com/josh155/MW2-Force-Host/issues
