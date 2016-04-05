@@ -1,4 +1,7 @@
 Please report bugs here: https://github.com/josh155/MW2-Force-Host/issues
+Current Bugs:
+Blood doesn't show until you're below the chosen player health.
+Occasionally your hud (mainly XP Bar) will mess up.
 Version 1.0
 First release, an updated from the previous version of the MW2 tool with new features and a better and simplified user interface.
 Version 1.1
@@ -11,3 +14,7 @@ Version 1.3
 Fixed health and viewkick problem. By the way, Celeste is a prick.
 Version 1.4
 Removed Grenade/Semtexes/Claymores function temporarily until I fix it as it currently sometimes makes you lose your own equipment.
+Version 1.5
+Some minor improvements.
+Added Auto Hold Breath.
+Added a kick tool.
