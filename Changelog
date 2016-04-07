@@ -19,3 +19,6 @@ Version 1.5
 Some minor improvements.
 Added Auto Hold Breath.
 Added a kick tool.
+Version 1.6
+Changed how health works.
+Fixed crashing when Github is down.
