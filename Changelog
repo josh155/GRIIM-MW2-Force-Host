@@ -1,26 +1,5 @@
-Please report bugs here: https://github.com/josh155/MW2-Force-Host/issues
-DON'T LOAD OLD INI FILES IF YOU HAVE UPDATED FROM VERSION 1.5 AND BELOW
-Current Bugs:
-Blood doesn't show until you're below the chosen player health.
-Occasionally your hud (mainly XP Bar) will mess up.
-Version 1.0
-First release, an updated from the previous version of the MW2 tool with new features and a better and simplified user interface.
-Version 1.1
-Temporarily disabled the option for Riotshields.
-Fixed Countdown force host when being in an alone party
-Version 1.2
-Added refill stuns/flashes when you press your refill ammo key.
-Made it so everyone else don't have grenades/semtexes/claymores etc...
-Version 1.3
-Fixed health and viewkick problem.
-Version 1.4
-Removed Grenade/Semtexes/Claymores function temporarily until I fix it as it currently sometimes makes you lose your own equipment.
-Version 1.5
-Some minor improvements.
-Added Auto Hold Breath.
-Added a kick tool.
-Version 1.6
-Changed how health works.
-Fixed crashing when Github is down.
-Version 1.7
-Fixed Free For All teams for non Free For All playlists.
+Completely new version. Please report any issues.
+
+Version 1.0:
+Added Anti Noob
+Added Easy Lobbies(Also makes it faster to find games)
